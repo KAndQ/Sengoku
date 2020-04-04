@@ -6,7 +6,7 @@
 
 名(简) | 名(繁) | 家纹 | 介绍
 ------------ | ------------ | ------------- | -------------
-松前 庆广 | 松前 慶廣 | *未收集* | [简介](https://zh.wikipedia.org/wiki/%E6%9D%BE%E5%89%8D%E6%85%B6%E5%BB%A3)
+蛎崎氏 | 蠣崎氏 | ![i](img/蛎崎氏.png) | [简介](https://baike.baidu.com/item/%E8%9B%8E%E5%B4%8E%E6%B0%8F/24431389)
 津轻氏 | 津輕氏 | ![i](/img/津轻氏.png) | [简介](https://zh.wikipedia.org/wiki/%E6%B4%A5%E8%BC%95%E6%B0%8F), 其後改姓大浦
 浪冈北畠(tián)氏 | 浪岡北畠氏 | ![i](img/浪岡北畠氏.jpg) | [简介](https://baike.baidu.com/item/%E6%B5%AA%E5%86%88%E5%8C%97%E7%95%A0%E6%B0%8F/13826825?fr=aladdin)
 南部晴政 | 南部晴政 | ![i](img/南部晴政.jpg) | [简介](https://zh.wikipedia.org/wiki/%E5%8D%97%E9%83%A8%E6%99%B4%E6%94%BF)
