@@ -88,6 +88,8 @@
 南信浓诹访氏 | 南信濃諏(zōu)訪氏 | ![i](img/諏訪氏.jpg) | [诹访赖重](https://baike.baidu.com/item/%E8%AF%B9%E8%AE%BF%E8%B5%96%E9%87%8D)
 西信浓木曾氏 | 西信濃木曾氏 | ![i](img/西信浓木曾氏-1.jpg) ![i](img/西信浓木曾氏-2.jpg) | [木曾义昌](https://baike.baidu.com/item/%E6%9C%A8%E6%9B%BE%E4%B9%89%E6%98%8C)
 飞驒江马氏 | 飛驒(tuó)江馬氏 | ![i](img/飞驒江马氏.jpg) | [江馬輝盛](https://zh.wikipedia.org/wiki/%E6%B1%9F%E9%A6%AC%E8%BC%9D%E7%9B%9B)
+飞驒三木氏(姊小路氏) | 飛驒三木氏(姉(zǐ)小路氏) | ![i](img/三木氏.jpg) ![i](img/姉小路氏.jpg) | [三木氏](https://baike.baidu.com/item/%E4%B8%89%E6%9C%A8%E6%B0%8F) [姉小路氏](https://baike.baidu.com/item/%E5%A7%8A%E5%B0%8F%E8%B7%AF%E6%B0%8F)
+
 
 ## 近畿
 
