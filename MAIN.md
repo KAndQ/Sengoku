@@ -36,34 +36,27 @@
 
 名(简) | 名(繁) | 家纹 | 介绍
 ------------ | ------------ | ------------- | -------------
-常陆佐竹氏 | 常陸佐竹氏 | ![i](img/常陆佐竹氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E4%BD%90%E7%AB%B9%E6%B0%8F)
+常陆佐竹氏pedia | 常陸佐竹氏 | ![i](img/常陆佐竹氏.jpg) | [简介](https://zh.wiki.org/wiki/%E4%BD%90%E7%AB%B9%E6%B0%8F)
 小田氏 | 小田氏 | ![i](img/小田氏.jpg) | [小田氏](https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E6%B0%8F)
-那须氏 | 那須氏 | ![i](img/那须氏.png) | [简介](https://baike.baidu.com/item/%E9%82%A3%E9%A1%BB%E6%B0%8F/1745111?fr=aladdin)
-下野宇都宫氏 | 下野宇都宮氏 | ![i](img/下野宇都宫氏.jpg) | [简介](https://baike.baidu.com/item/%E5%AE%87%E9%83%BD%E5%AE%AB%E6%B0%8F/10392002?fr=aladdin)
+那须氏 | 那須氏 | ![i](img/那须氏.jpg) | [简介](https://baike.baidu.com/item/%E9%82%A3%E9%A1%BB%E6%B0%8F/1745111?fr=aladdin)
+下野宇都宫氏 | 下野宇都宮氏 | ![i](img/宇都宫氏.jpg) | [简介](https://baike.baidu.com/item/%E5%AE%87%E9%83%BD%E5%AE%AB%E6%B0%8F/10392002?fr=aladdin)
 佐野氏 | 佐野氏 | ![i](img/佐野氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E4%BD%90%E9%87%8E%E6%B0%8F)
-壬生氏 | 壬生氏 | ![i](img/壬生氏.png) | [简介](https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E6%B0%8F)
-皆川氏 | 皆川氏 | ![i](img/皆川氏.png) | [简介](https://ja.wikipedia.org/wiki/%E7%9A%86%E5%B7%9D%E6%B0%8F)
-小山氏 | 小山氏 | ![i](img/小山氏.png) | [简介](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E6%B0%8F)
-山內上杉氏 | 山內上杉氏 | ![i](img/山內上杉氏.png) | [简介](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E6%B0%8F)
+壬生氏 | 壬生氏 | ![i](img/壬生氏.jpg) | [简介](https://ja.wikipedia.org/wiki/%E5%A3%AC%E7%94%9F%E6%B0%8F)
+皆川氏 | 皆川氏 | ![i](img/皆川氏.jpg) | [简介](https://ja.wikipedia.org/wiki/%E7%9A%86%E5%B7%9D%E6%B0%8F)
+小山氏 | 小山氏 | ![i](img/小山氏.jpg) | [简介](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B1%B1%E6%B0%8F)
+山內上杉氏 | 山內上杉氏 | ![i](img/山內上杉氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%9D%89%E6%B0%8F)
 横濑氏(由良氏) | 橫瀨氏(由良氏) | ![i](img/由良氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/yura_k.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+上野长野氏 | 上野長野氏 | ![i](img/上野长野氏.jpg) | [长野业正](https://baike.baidu.com/item/%E9%95%BF%E9%87%8E%E4%B8%9A%E6%AD%A3/9143720?fr=aladdin)
+下总结成氏 | 下總結城氏 | ![i](img/下總結城氏.jpg) | [简介](https://baike.baidu.com/item/%E7%BB%93%E5%9F%8E%E6%B0%8F)
+千叶氏 | 千葉氏 | ![i](img/千葉氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E5%8D%83%E5%8F%B6%E6%B0%8F)
+上总武田氏 | 上總武田氏 | ![i](img/上总武田氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E6%B0%8F)
+安房正木氏 | 安房正木氏 | ![i](img/安房正木氏.jpg) | [简介](https://www.douban.com/note/606550274/)
+安房里见氏 | 安房里見氏 | ![i](img/安房里見氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E9%87%8C%E8%A6%8B%E6%B0%8F)
+扇谷上杉氏 | 扇谷上杉氏 | ![i](img/扇谷上杉氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%89%87%E8%B0%B7%E4%B8%8A%E6%9D%89%E5%AE%B6)
+多贺谷氏 | 多賀谷氏 | ![i](img/多賀谷氏.jpg) | [多贺谷重经](https://baike.baidu.com/item/%E5%A4%9A%E8%B4%BA%E8%B0%B7%E9%87%8D%E7%BB%8F)
+江户氏 | 江戶氏 | *待补充* | *待补充*
+相模三浦氏 | 相模三浦氏 | ![i](img/相模三浦氏.jpg) | [简介](https://baike.baidu.com/item/%E4%B8%89%E6%B5%A6%E6%B0%8F)
+相模北条氏 | 相模北條氏 | ![i](img/相模北條氏.jpg) | [简介](https://baike.baidu.com/item/%E5%90%8E%E5%8C%97%E6%9D%A1%E6%B0%8F)
 
 ## 中部
 
