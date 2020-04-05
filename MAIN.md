@@ -69,6 +69,26 @@
 
 ## 中部
 
+（佐渡、越後、越中、能登、加賀、越前、甲斐、信濃、飛驒、美濃、駿河、遠江、三河、尾張）
+
+名(简) | 名(繁) | 家纹 | 介绍
+------------ | ------------ | ------------- | -------------
+越后长尾氏 | 越後長尾氏（上杉氏） | ![i](img/越後上杉氏.jpg) | [上杉谦信](https://baike.baidu.com/item/%E4%B8%8A%E6%9D%89%E8%B0%A6%E4%BF%A1/79375?fromtitle=%E8%B6%8A%E5%90%8E%E4%B9%8B%E9%BE%99&fromid=285472)
+越中神保氏 | 越中神保氏 | ![i](img/越中神保氏.jpg) | [简介](https://baike.baidu.com/item/%E7%A5%9E%E4%BF%9D%E6%B0%8F)
+越中椎名氏 | 越中椎名氏 | ![i](img/越中椎名氏.jpg) | [简介](https://baike.baidu.com/item/%E6%A4%8E%E5%90%8D%E6%B0%8F)
+能登畠山氏 | 能登畠山氏 | ![i](img/能登畠山氏.jpg) | [简介](https://baike.baidu.com/item/%E7%95%A0%E5%B1%B1%E6%B0%8F)
+越前朝仓氏 | 越前朝倉氏 | ![i](img/越前朝倉氏.jpg) | [简介](https://baike.baidu.com/item/%E6%9C%9D%E4%BB%93%E6%B0%8F)
+甲斐武田氏 | 甲斐武田氏 | ![i](img/甲斐武田氏.jpg) | [简介](https://baike.baidu.com/item/%E7%94%B2%E6%96%90%E6%AD%A6%E7%94%B0%E6%B0%8F)
+信浓村上氏 | 信濃村上氏 | ![i](img/信濃村上氏.jpg) | [简介](https://baike.baidu.com/item/%E6%9D%91%E4%B8%8A%E6%B0%8F)
+高梨氏 | 高梨氏 | ![i](img/高梨氏.jpg) | [高梨政赖](https://baike.baidu.com/item/%E9%AB%98%E6%A2%A8%E6%94%BF%E8%B5%96)
+真田氏 | 真田氏 | ![i](img/真田氏.jpg) | [简介](https://baike.baidu.com/item/%E7%9C%9F%E7%94%B0%E6%B0%8F)
+海野氏 | 海野氏 | ![i](img/海野氏-1.jpg) ![i](img/海野氏-2.jpg) ![i](img/海野氏-3.jpg) | [简介](https://baike.baidu.com/item/%E6%B5%B7%E9%87%8E%E6%B0%8F)
+仁科氏 | 仁科氏 | ![i](img/仁科氏-1.jpg) ![i](img/仁科氏-2.jpg) | [仁科盛信](https://baike.baidu.com/item/%E4%BB%81%E7%A7%91%E7%9B%9B%E4%BF%A1)
+东信浓小笠原氏(府中小笠原氏) | 東信濃小笠原氏(府中小笠原氏) | ![i](img/東信濃小笠原氏.jpg) | [简介](https://baike.baidu.com/item/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B0%8F)
+南信浓诹访氏 | 南信濃諏(zōu)訪氏 | ![i](img/諏訪氏.jpg) | [诹访赖重](https://baike.baidu.com/item/%E8%AF%B9%E8%AE%BF%E8%B5%96%E9%87%8D)
+西信浓木曾氏 | 西信濃木曾氏 | ![i](img/西信浓木曾氏-1.jpg) ![i](img/西信浓木曾氏-2.jpg) | [木曾义昌](https://baike.baidu.com/item/%E6%9C%A8%E6%9B%BE%E4%B9%89%E6%98%8C)
+飞驒江马氏 | 飛驒(tuó)江馬氏 | ![i](img/飞驒江马氏.jpg) | [江馬輝盛](https://zh.wikipedia.org/wiki/%E6%B1%9F%E9%A6%AC%E8%BC%9D%E7%9B%9B)
+
 ## 近畿
 
 ## 中國・四國
