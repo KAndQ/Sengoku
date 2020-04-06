@@ -17,7 +17,7 @@
 ------------ | ------------ | ------------- | -------------
 蛎崎(松前)氏 | 蠣崎(松前)氏 | ![i](img/蛎崎氏.jpg) | [简介](https://baike.baidu.com/item/%E8%9B%8E%E5%B4%8E%E6%B0%8F/24431389)
 津轻氏 | 津輕氏 | ![i](/img/津輕氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%B4%A5%E8%BC%95%E6%B0%8F)
-浪冈北畠(tián)氏 | 浪岡北畠氏 | ![i](img/北畠氏-1.jpg) ![i](img/北畠氏-2.jpg) | [简介](https://baike.baidu.com/item/%E6%B5%AA%E5%86%88%E5%8C%97%E7%95%A0%E6%B0%8F/13826825?fr=aladdin)
+浪冈北畠(tián)氏 | 浪岡北畠氏 | ![i](img/北畠氏-1.jpg) | [简介](https://baike.baidu.com/item/%E6%B5%AA%E5%86%88%E5%8C%97%E7%95%A0%E6%B0%8F/13826825?fr=aladdin)
 南部氏 | 南部氏 | ![i](img/南部氏.jpg) | [简介](https://baike.baidu.com/item/%E5%8D%97%E9%83%A8%E6%B0%8F/3461622?fr=aladdin)
 高水寺斯波氏 | 高水寺斯波氏 | ![i](img/斯波氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E6%B0%8F)
 葛西氏 | 葛西氏 | ![i](img/葛西氏.jpg) | [简介](https://baike.baidu.com/item/%E8%91%9B%E8%A5%BF%E6%B0%8F/23674166?fr=aladdin)
@@ -98,6 +98,32 @@
 尾张织田氏 | 尾張織田氏 | ![i](img/尾張織田氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E7%B9%94%E7%94%B0%E6%B0%8F)
 
 ## 近畿[jī]
+
+（近江、若狹、丹後、丹波、山城、伊勢、志摩、伊賀、大和、紀伊、河內、和泉、摂津、播磨、但馬、因幡）
+
+名(简) | 名(繁) | 家纹 | 介绍
+------------ | ------------ | ------------- | -------------
+京极氏 | 京極氏 | ![i](img/京極氏.jpg) | [简介](https://baike.baidu.com/item/%E4%BA%AC%E6%9E%81%E6%B0%8F)
+北近江浅井氏 | 北近江淺井氏 | ![i](img/北近江淺井氏.png) | [简介](https://baike.baidu.com/item/%E6%B5%85%E4%BA%95%E6%B0%8F)
+南近江六角氏 | 南近江六角氏 | ![i](img/南近江六角氏.jpg) | [简介](https://baike.baidu.com/item/%E5%85%AD%E8%A7%92%E6%B0%8F)
+若狭武田氏 | 若狹武田氏 | ![i](img/若狭武田氏.jpg) | [简介](https://baike.baidu.com/item/%E8%8B%A5%E7%8B%AD%E6%AD%A6%E7%94%B0%E6%B0%8F)
+丹后一色氏 | 丹後一色氏 | ![i](img/丹后一色氏.jpg) | [简介](https://baike.baidu.com/item/%E4%B8%80%E8%89%B2%E6%B0%8F)
+內藤氏 | 內藤氏 | ![i](img/內藤氏.jpg) | [内藤清成](https://baike.baidu.com/item/%E5%86%85%E8%97%A4%E6%B8%85%E6%88%90)
+丹波赤井氏 | 丹波赤井氏 | ![i](img/丹波赤井氏.jpg) | [简介](https://baike.baidu.com/item/%E8%B5%A4%E4%BA%95%E6%B0%8F)
+丹波波多野氏 | 丹波波多野氏 | ![i](img/丹波波多野氏-1.jpg) ![i](img/丹波波多野氏-2.jpg) | [简介](https://baike.baidu.com/item/%E6%B3%A2%E5%A4%9A%E9%87%8E%E6%B0%8F)
+伊势关氏 | 伊勢關氏 | ![i](img/伊勢關氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/seki_k.html)
+伊势神户氏 | 伊勢神戶氏 | ![i](img/伊勢神戶氏.jpg) | [神戶具盛](https://zh.wikipedia.org/wiki/%E7%A5%9E%E6%88%B6%E5%85%B7%E7%9B%9B)
+伊势长野工藤氏 | 伊勢長野工藤氏 | ![i](img/伊势长野工藤氏.jpg) | [長野稙藤](https://zh.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E7%A8%99%E8%97%A4)
+伊勢北畠氏 | 伊勢北畠氏 | ![i](img/北畠氏-2.jpg) | [北畠具教](https://baike.baidu.com/item/%E5%8C%97%E7%95%A0%E5%85%B7%E6%95%99/128762) [北畠晴具](https://zh.wikipedia.org/wiki/%E5%8C%97%E7%95%A0%E6%99%B4%E5%85%B7)
+大和筒井氏 | 大和筒井氏 | ![i](img/筒井氏-1.jpg) ![i](img/筒井氏-2.jpg) ![i](img/筒井氏-3.jpg) | [筒井顺昭](https://baike.baidu.com/item/%E7%AD%92%E4%BA%95%E9%A1%BA%E6%98%AD) [筒井順慶](https://zh.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E9%A0%86%E6%85%B6)
+大和越智氏 | 大和越智氏 | ![i](img/大和越智氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/oti_k.html)
+大和松永氏 | 大和松永氏 | ![i](img/大和松永氏.jpg) | [松永久秀](https://baike.baidu.com/item/%E6%9D%BE%E6%B0%B8%E4%B9%85%E7%A7%80/77907)
+河內畠山氏 | 河內畠山氏 | ![i](img/畠山氏-1.jpg) ![i](img/畠山氏-2.jpg) ![i](img/畠山氏-3.jpg) | [简介](https://zh.wikipedia.org/wiki/%E7%95%A0%E5%B1%B1%E6%B0%8F)
+山城细川氏 | 山城細川氏 | ![i](img/山城細川氏.jpg) | [简介](https://baike.baidu.com/item/%E7%BB%86%E5%B7%9D%E6%B0%8F)
+播磨赤松氏 | 播磨赤松氏 | ![i](img/播磨赤松氏.jpg) | [简介](https://baike.baidu.com/item/%E8%B5%A4%E6%9D%BE%E6%B0%8F)
+播磨別所氏 | 播磨別所氏 | ![i](img/播磨別所氏.jpg) | [別所就治](https://zh.wikipedia.org/wiki/%E5%88%A5%E6%89%80%E5%B0%B1%E6%B2%BB)
+因幡山名氏 | 因幡[fān]山名氏 | ![i](img/山名氏-1.jpg) ![i](img/山名氏-2.jpg) | [简介](https://baike.baidu.com/item/%E5%B1%B1%E5%90%8D%E6%B0%8F)
+伊贺仁木氏 | 伊賀仁木氏 | ![i](img/伊贺仁木氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/niki_k.html)
 
 ## 中國・四國
 
