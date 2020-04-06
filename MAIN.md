@@ -4,7 +4,7 @@
     - [蝦夷(北海道)・東北](#蝦夷北海道東北)
     - [東國(關東)](#東國關東)
     - [中部](#中部)
-    - [近畿](#近畿)
+    - [近畿[jī]](#近畿jī)
     - [中國・四國](#中國四國)
     - [九州](#九州)
     - [特殊](#特殊)
@@ -16,14 +16,14 @@
 名(简) | 名(繁) | 家纹 | 介绍
 ------------ | ------------ | ------------- | -------------
 蛎崎(松前)氏 | 蠣崎(松前)氏 | ![i](img/蛎崎氏.jpg) | [简介](https://baike.baidu.com/item/%E8%9B%8E%E5%B4%8E%E6%B0%8F/24431389)
-津轻氏 | 津輕氏 | ![i](/img/津輕氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%B4%A5%E8%BC%95%E6%B0%8F), 其後改姓大浦
+津轻氏 | 津輕氏 | ![i](/img/津輕氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%B4%A5%E8%BC%95%E6%B0%8F)
 浪冈北畠(tián)氏 | 浪岡北畠氏 | ![i](img/北畠氏-1.jpg) ![i](img/北畠氏-2.jpg) | [简介](https://baike.baidu.com/item/%E6%B5%AA%E5%86%88%E5%8C%97%E7%95%A0%E6%B0%8F/13826825?fr=aladdin)
 南部氏 | 南部氏 | ![i](img/南部氏.jpg) | [简介](https://baike.baidu.com/item/%E5%8D%97%E9%83%A8%E6%B0%8F/3461622?fr=aladdin)
-高水寺斯波氏 | 高水寺斯波氏 | ![i](img/斯波氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E6%B0%8F), 源自清和天皇後代源義家之子義國足利氏的後代。
+高水寺斯波氏 | 高水寺斯波氏 | ![i](img/斯波氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E6%B0%8F)
 葛西氏 | 葛西氏 | ![i](img/葛西氏.jpg) | [简介](https://baike.baidu.com/item/%E8%91%9B%E8%A5%BF%E6%B0%8F/23674166?fr=aladdin)
-大崎氏 | 大崎氏 | ![i](img/大崎氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%B4%8E%E7%BE%A9%E7%9B%B4), 代表人物大崎義直
-伊达氏 | 伊達氏 | ![i](img/伊达氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%B0%8F), 游戏内常见角色, 伊达政宗
-陆奥伊达氏 | 陸奧伊達氏 | ![i](img/陸奧伊達氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E9%99%B8%E5%A5%A7%E5%9C%8B), 一般称为陆奥国
+大崎氏 | 大崎氏 | ![i](img/大崎氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%B4%8E%E7%BE%A9%E7%9B%B4)
+伊达氏 | 伊達氏 | ![i](img/伊达氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E6%B0%8F)
+陆奥伊达氏 | 陸奧伊達氏 | ![i](img/陸奧伊達氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E9%99%B8%E5%A5%A7%E5%9C%8B)
 相马氏 | 相馬氏 | ![i](img/相馬氏.jpg) | [简介](https://baike.baidu.com/item/%E7%9B%B8%E9%A9%AC%E6%B0%8F/4266767)
 二本松氏 | 二本松氏 | *待补充*| [二本松義繼](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%9C%AC%E6%9D%BE%E7%BE%A9%E7%B9%BC)
 田村氏 | 田村氏 | ![i](img/田村氏-1.jpg) ![i](img/田村氏-2.jpg) | [简介](https://baike.baidu.com/item/%E7%94%B0%E6%9D%91%E6%B0%8F/1588956?fr=aladdin)
@@ -89,9 +89,15 @@
 西信浓木曾氏 | 西信濃木曾氏 | ![i](img/西信浓木曾氏-1.jpg) ![i](img/西信浓木曾氏-2.jpg) | [木曾义昌](https://baike.baidu.com/item/%E6%9C%A8%E6%9B%BE%E4%B9%89%E6%98%8C)
 飞驒江马氏 | 飛驒(tuó)江馬氏 | ![i](img/飞驒江马氏.jpg) | [江馬輝盛](https://zh.wikipedia.org/wiki/%E6%B1%9F%E9%A6%AC%E8%BC%9D%E7%9B%9B)
 飞驒三木氏(姊小路氏) | 飛驒三木氏(姉(zǐ)小路氏) | ![i](img/三木氏.jpg) ![i](img/姉小路氏.jpg) | [三木氏](https://baike.baidu.com/item/%E4%B8%89%E6%9C%A8%E6%B0%8F) [姉小路氏](https://baike.baidu.com/item/%E5%A7%8A%E5%B0%8F%E8%B7%AF%E6%B0%8F)
+美浓土岐氏 | 美濃土岐氏 | ![i](img/美濃土岐氏.jpg) | [简介](https://baike.baidu.com/item/%E5%9C%9F%E5%B2%90%E6%B0%8F)
+美浓斋藤氏 | 美濃齋藤氏 | ![i](img/美濃齋藤氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E9%BD%8B%E8%97%A4%E6%B0%8F#%E7%BE%8E%E6%BF%83%E9%BD%8B%E8%97%A4%E6%B0%8F)
+骏河金川氏 | 駿河今川氏 | ![i](img/骏河金川氏-1.jpg) ![i](img/骏河金川氏-2.jpg) | [简介](https://baike.baidu.com/item/%E4%BB%8A%E5%B7%9D%E6%B0%8F)
+三河松平氏(德川氏) | 三河松平氏(德川氏) | ![i](img/德川氏.png) | [简介](https://baike.baidu.com/item/%E5%BE%B7%E5%B7%9D%E6%B0%8F)
+三河水野氏 | 三河水野氏 | ![i](img/三河水野氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/mizuno.html)
+尾张斯波氏 | 尾張斯波氏 | ![i](img/斯波氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%96%AF%E6%B3%A2%E6%B0%8F)
+尾张织田氏 | 尾張織田氏 | ![i](img/尾張織田氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E7%B9%94%E7%94%B0%E6%B0%8F)
 
-
-## 近畿
+## 近畿[jī]
 
 ## 中國・四國
 
