@@ -158,6 +158,32 @@
 
 ## 九州
 
+（豐前、豐後、對馬、壹岐、筑前、筑後、肥前、肥後、日向、大隅、薩摩）
+
+名(简) | 名(繁) | 家纹 | 介绍
+------------ | ------------ | ------------- | -------------
+丰后大友氏 | 豐後大友氏 | ![i](img/豐後大友氏.jpg) | [简介](https://baike.baidu.com/item/%E4%B8%B0%E5%90%8E%E5%A4%A7%E5%8F%8B%E6%B0%8F)
+对马宗氏 | 對馬宗氏 | ![i](img/對馬宗氏.jpg) ![i](img/對馬宗氏-2.jpg) | [简介](http://m.newsmth.net/article/KOEI/single/19442/0)
+宗像氏 | 宗像氏 | ![i](img/宗像氏.jpg) | [简介](https://baike.baidu.com/item/%E5%AE%97%E5%83%8F%E6%B0%8F)
+立花氏 | 立花氏 | ![i](img/立花氏.jpg) | [简介](https://zh.wikipedia.org/zh/%E7%AB%8B%E8%8A%B1%E6%B0%8F)
+少弐氏 | 少弐[èr]氏 | ![i](img/少弐氏.jpg) | [简介](https://baike.baidu.com/item/%E5%B0%91%E5%BC%90%E6%B0%8F/15711284?fr=aladdin)
+秋月氏 | 秋月氏 | ![i](img/秋月氏.jpg) | [简介](https://baike.baidu.com/item/%E7%A7%8B%E6%9C%88%E6%B0%8F)
+蒲池氏 | 蒲[pú]池氏 | ![i](img/蒲池氏.jpg) | [蒲池鉴盛](https://baike.baidu.com/item/%E8%92%B2%E6%B1%A0%E9%89%B4%E7%9B%9B/15236850?fr=aladdin)
+肥前龙造寺氏 | 肥前龍造寺氏 | ![i](img/肥前龍造寺氏.jpg) | [简介](https://baike.baidu.com/item/%E9%BE%99%E9%80%A0%E5%AF%BA%E6%B0%8F/122047?fr=aladdin) [龙造寺隆信](https://baike.baidu.com/item/%E9%BE%99%E9%80%A0%E5%AF%BA%E9%9A%86%E4%BF%A1)
+锅岛氏 | 鍋島氏 | ![i](img/鍋島氏.jpg) | [简介](https://baike.baidu.com/item/%E9%94%85%E5%B2%9B%E6%B0%8F)
+松浦氏 | 松浦氏 | ![i](img/松浦氏-1.jpg) ![i](img/松浦氏-2.jpg) | [松浦隆信](https://baike.baidu.com/item/%E6%9D%BE%E6%B5%A6%E9%9A%86%E4%BF%A1/10246968?fr=aladdin)
+宇久氏 | 宇久氏 | ![i](img/宇久氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/uku_k.html)
+大村氏 | 大村氏 | ![i](img/大村氏-1.jpg) ![i](img/大村氏-2.jpg) ![i](img/大村氏-3.jpg) | [大村纯忠](https://baike.baidu.com/item/%E5%A4%A7%E6%9D%91%E7%BA%AF%E5%BF%A0/3128897?fr=aladdin)
+肥前有马氏 | 肥前有馬氏 | ![i](img/肥前有馬氏.jpg) | [有马晴信](https://baike.baidu.com/item/%E6%9C%89%E9%A9%AC%E6%99%B4%E4%BF%A1/8657868?fr=aladdin)
+菊池氏 | 菊池氏 | ![i](img/菊池氏.jpg) | [简介](https://baike.baidu.com/item/%E8%8F%8A%E6%B1%A0%E6%B0%8F/6132631?fr=aladdin)
+阿苏氏 | 阿蘇氏 | ![i](img/阿蘇氏.jpg) | [简介](https://www.ribenshi.com/forum/thread-17344-1-1.html?_dsign=a96830c3)
+相良氏 | 相良氏 | ![i](img/相良氏.jpg) | [相良义阳](https://baike.baidu.com/item/%E7%9B%B8%E8%89%AF%E4%B9%89%E9%98%B3)
+土持氏 | 土持氏 | ![i](img/土持氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/tutimoti.html)
+北原氏 | 北原氏 | ![i](img/北原氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/hyu_kita.html)
+日向伊东氏 | 日向伊東氏 | ![i](img/日向伊東氏.jpg) | [简介](https://baike.baidu.com/item/%E4%BC%8A%E4%B8%9C%E6%B0%8F)
+肝付氏 | 肝付氏 | ![i](img/肝付氏.jpg) | [简介](https://baike.baidu.com/item/%E8%82%9D%E4%BB%98%E6%B0%8F/3461139?fr=aladdin)
+萨摩岛津氏 | 薩摩島津氏 | ![i](img/薩摩島津氏.jpg) | [简介](https://baike.baidu.com/item/%E5%B2%9B%E6%B4%A5%E6%B0%8F)
+
 ## 特殊
 
 名(简) | 名(繁) | 家纹 | 介绍
