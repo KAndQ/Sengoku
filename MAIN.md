@@ -127,10 +127,40 @@
 
 ## 中國・四國
 
+（美作、備前、備中、備後、安藝、伯耆、隱岐、出雲、石見、周防、長門、讚岐、阿波、淡路、土佐、伊予）
+
+名(简) | 名(繁) | 家纹 | 介绍
+------------ | ------------ | ------------- | -------------
+美作后藤氏 | 美作後藤氏 | ![i](img/美作後藤氏.jpg) | [后藤基次](https://baike.baidu.com/item/%E5%90%8E%E8%97%A4%E5%9F%BA%E6%AC%A1/8944534?fromtitle=%E5%90%8E%E8%97%A4%E5%8F%88%E5%85%B5%E5%8D%AB%E5%9F%BA%E6%AC%A1&fromid=5891022)
+美作三浦氏 | 美作三浦氏 | ![i](img/美作三浦氏.jpg) | [简介](http://www2.harimaya.com/sengoku/html/mi_miura.html)
+美作浦上氏 | 美作浦上氏 | ![i](img/美作浦上氏.jpg) | [浦上宗景](https://baike.baidu.com/item/%E6%B5%A6%E4%B8%8A%E5%AE%97%E6%99%AF)
+备前宇喜多氏 | 備前宇喜多氏 | ![i](img/備前宇喜多氏-1.jpg) ![i](img/備前宇喜多氏-2.jpg) | [简介](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%96%9C%E5%A4%9A%E6%B0%8F)
+备前松田氏 | 備前松田氏 | ![i](img/備前松田氏-1.jpg) ![i](img/備前松田氏-2.jpg) | [简介](http://www2.harimaya.com/sengoku/html/b_matuda.html)
+庄氏 | 庄(荘)氏 | ![i](img/庄氏.jpg) | [庄元祐](https://zh.wikipedia.org/wiki/%E5%BA%84%E5%85%83%E7%A5%90)
+备中三村氏 | 備中三村氏 | ![i](img/備中三村氏.jpg) | [三村元亲](https://baike.baidu.com/item/%E4%B8%89%E6%9D%91%E5%85%83%E4%BA%B2)
+备后山内氏 | 備後山內氏 | ![i](img/備後山內氏.jpg) | [山内一丰](https://baike.baidu.com/item/%E5%B1%B1%E5%86%85%E4%B8%80%E4%B8%B0)
+安艺武田氏 | 安藝武田氏 | ![i](img/安藝武田氏.jpg) | [简介](https://zh.wikipedia.org/wiki/%E6%AD%A6%E7%94%B0%E6%B0%8F)
+安艺毛利氏 | 安藝毛利氏 | ![i](img/安藝毛利氏.jpg) | [简介](https://baike.baidu.com/item/%E6%AF%9B%E5%88%A9%E6%B0%8F)
+出云吉川氏 | 出雲吉川氏 | ![i](img/吉川氏-1.jpg) ![i](img/出雲吉川氏-2.jpg) | [简介](http://www2.harimaya.com/sengoku/html/kikka.html)
+安艺小早川氏 | 安藝小早川氏 | ![i](img/安藝小早川氏.jpg) | [简介](https://baike.baidu.com/item/%E5%B0%8F%E6%97%A9%E5%B7%9D%E6%B0%8F)
+南条氏 | 南條氏 | ![i](img/南條氏.jpg) ![i](img/南條氏-2.jpg) | [简介](http://www2.harimaya.com/sengoku/html/nanjo_k.html)
+出云尼子氏 | 出雲尼子氏 | ![i](img/出雲尼子氏-1.jpg) ![i](img/出雲尼子氏-2.jpg) | [简介](http://www.360doc.com/content/20/0128/21/1414235_888380236.shtml)
+周防大內氏 | 周防大內氏 | ![i](img/周防大內氏.jpg) | [简介](https://baike.baidu.com/item/%E5%A4%A7%E5%86%85%E6%B0%8F)
+赞岐十河氏 | 讚岐十河氏 | ![i](img/讚岐十河氏.jpg) | [十河一存](https://baike.baidu.com/item/%E5%8D%81%E6%B2%B3%E4%B8%80%E5%AD%98)
+阿波三好氏 | 阿波三好氏 | ![i](img/阿波三好氏.jpg) | [简介](https://baike.baidu.com/item/%E4%B8%89%E5%A5%BD%E6%B0%8F)
+安艺氏 | 安藝氏 | ![i](img/安芸氏-1.jpg) ![i](img/安芸氏-2.jpg) ![i](img/安芸氏-3.jpg) | [简介](http://blog.sina.com.cn/s/blog_67e1476c0100s0rz.html)
+本山氏 | 本山氏 | ![i](img/本山氏.jpg) | [本山亲茂](https://baike.baidu.com/item/%E6%9C%AC%E5%B1%B1%E4%BA%B2%E8%8C%82) [本山茂辰](https://baike.baidu.com/item/%E6%9C%AC%E5%B1%B1%E8%8C%82%E8%BE%B0)
+士佐长宗我部氏 | 土佐長宗我部氏 | ![i](img/長曽我部氏.jpg) | [简介](https://baike.baidu.com/item/%E9%95%BF%E5%AE%97%E6%88%91%E9%83%A8%E6%B0%8F)
+土佐一条氏 | 土佐一條氏 | ![i](img/土佐一條氏.jpg) | [简介](https://baike.baidu.com/item/%E5%9C%9F%E4%BD%90%E4%B8%80%E6%9D%A1%E6%B0%8F)
+伊予河野氏 | 伊予河野氏 | ![i](img/伊予河野氏.jpg) | [简介](https://baike.baidu.com/item/%E6%B2%B3%E9%87%8E%E6%B0%8F)
+伊予宇都宮氏 | 伊予宇都宮氏 | ![i](img/伊予宇都宮氏.jpg) | [简介](https://baike.baidu.com/item/%E5%AE%87%E9%83%BD%E5%AE%AB%E6%B0%8F/10392002?fr=aladdin)
+伊予西园寺氏 | 伊予西園寺氏 | ![i](img/伊予西園寺氏.jpg) | [简介](https://baike.baidu.com/item/%E8%A5%BF%E5%9B%AD%E5%AF%BA%E6%B0%8F)
+
 ## 九州
 
 ## 特殊
 
 名(简) | 名(繁) | 家纹 | 介绍
 ------------ | ------------ | ------------- | -------------
-石田 三成 | 石田 三成 | ![i](/img/石田-1.jpg) ![i](/img/石田-2.jpg) | [简介](https://zh.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E4%B8%89%E6%88%90)
+石田 三成 | 石田 三成 | ![i](img/石田-1.jpg) ![i](img/石田-2.jpg) | [简介](https://zh.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E4%B8%89%E6%88%90)
+儿玉党 | 児玉党 | ![i](img/児玉党-1.jpg) ![i](img/児玉党-2.jpg) | *待补充*
